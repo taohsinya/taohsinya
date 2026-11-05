@@ -7,11 +7,19 @@ I take products into new markets and make them grow, and I build with AI to do i
 - 🚀 **Founder:** Founding Partner at a Hong Kong venture studio for 7+ years; 3x co-founder, 2x CEO
 - 🤖 **AI, hands-on:** designed the core system of AI agents and the AI persona of an AI money assistant (480,000 users, $1M in annual recurring revenue); I use Claude Code daily for marketing, product and research work
 
-### Where to start
-**[portfolio](https://github.com/taohsinya/portfolio)**: my work in three parts
-1. **Growth & Marketing**: AI video and content generation, getting found in search engines and AI answers, branding, past campaigns
-2. **Product**: product review by a team of AI agents, measuring how much users value each feature, testing with simulated users (e.g. [stress-testing a financial health score](https://github.com/taohsinya/portfolio/tree/main/2-product/simulation/financial-fitness-score))
-3. **Research**: equity research methods (e.g. [the Stock 360 prompt](https://github.com/taohsinya/portfolio/tree/main/3-research/stock-research/stock-360-research-method))
+### My work → [portfolio](https://github.com/taohsinya/portfolio)
+
+**Product**: how I decide what to build and check it before launch
+- [Perceived value and NPS](https://github.com/taohsinya/portfolio/tree/main/product/pv-nps): scoring "will people pay for this?" and "is the experience good enough?"
+- [Testing with simulated users](https://github.com/taohsinya/portfolio/tree/main/product/simulation): using AI users before launch, and correcting for their optimism
+- [Financial Fitness Score](https://github.com/taohsinya/portfolio/tree/main/product/simulation/financial-fitness-score): a worked example, from a 5.5/10 review to three fixes
+- [Product review by a team of AI agents](https://github.com/taohsinya/portfolio/tree/main/product/multi-agent-review): my 8-stage release process
+- [Design to code](https://github.com/taohsinya/portfolio/tree/main/product/design-to-code): Claude Design → Figma → code
+
+**Research**
+- [Stock 360 research method](https://github.com/taohsinya/portfolio/tree/main/research/stock-research/stock-360-research-method): an instruction set that makes AI write disciplined stock research
+
+**Coming next:** Growth & Marketing (AI video and content, SEO/GEO, branding an AI product, past campaigns)
 
 ### Background
 Peking University (International Politics and Economy) · Mandarin and English · Based in Hong Kong
